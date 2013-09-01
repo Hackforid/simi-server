@@ -5,4 +5,4 @@ simi-server--thilia
 *  采用tornado+sqlalchemy进行协作开发
 *  restful api接口
 *  提交pr请检查pep8
-*  [trello地址] ("https://trello.com/b/jWY5kiwy/thalia")
+*  功能开发请认领trello todo card [trello地址] ("https://trello.com/b/jWY5kiwy/thalia")
